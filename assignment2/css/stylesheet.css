@@ -1,0 +1,183 @@
+ body {
+ 	background-color:  black;
+ 	font-family: 'PT Sans', arial, Sans, sans-serif, helvetica;
+ 	color: white;
+
+ }
+
+ a {
+ 	text-decoration: none;
+ 	color: white;
+ }
+
+ a:hover {
+ 	opacity: 1.0;
+ 	text-decoration: bold;
+ 	color: #3333ff;
+ 	background-color: white;
+}
+
+ h1 {
+ 	font-size: 55;
+ }
+
+ h2, h3 {
+ 	color: white;
+ }
+
+ #container {
+ 	background-color: #141f1f;
+ 	opacity: 0.9;
+ 	max-width: 1000px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	text-align: center;
+ 	border-radius: 27px;
+ 	border: 5px solid #003366;
+ }
+
+ #header {
+ 	color: white;
+ }
+
+ #content {
+  	padding: 10px;
+ }
+
+ #navbar {
+   	width: 17%;
+   	float: left;
+	background-color: ;
+	border-radius: 27px;
+	margin: 12px;
+	border: 2px #3333ff;
+
+ }
+
+p {
+	font-size: 27;
+	
+ }
+
+ #at {
+ 	color: #3333ff;
+ }
+
+ #main {
+ 	width: 72%;
+ 	float: right;
+ 	padding-right: 20px;
+ }
+
+#main h2 {
+	text-align: left;
+}
+
+ #main p {
+ 	
+ 	margin: 50px 15px 0 15px;
+ }
+
+#main2 {
+	clear: both;
+ 	text-align: center;
+}
+
+#main3 p {
+	float: left;
+	width: 51%;
+	padding-left: 2%;
+}
+
+#navbar2{
+	clear: both;
+	float:left;
+	width: 99.9%;
+	margin-top: 25px;
+}
+
+.box {
+	float: left;
+	width: 21%;
+	hieght: 40px;
+	display: inline-block;
+	background-color: #003366;
+	opacity: 0.8;
+	margin: 0 1% 0 2.2%;
+	border: 2px solid #3333ff;
+	padding-top: 3px;
+	border-radius: 7px;
+}
+
+ #footer {
+ 	padding: -55px -5% 20px -17%;
+ 	
+ 	color: white;
+ 	text-align: right;
+ 	width: 95%;
+ 	border-radius: 1.2%;
+ }
+
+.img {
+	margin-top: 10px;
+	padding: 12px 7px 20px 0;
+	border: 2px solid #3333ff;
+	
+	opacity: 0.87;
+}
+
+ #mtview {
+ 	width: 97%;
+ 	padding: none;
+ 	border-radius: 42px;
+ }
+
+#banner {
+	width: 99%;
+	padding: none;
+	border-radius: 42px;
+	
+}
+ #cal1 {
+ 	float: left;
+ 	margin-right: 10px;
+ 	width: 60%;
+ 	border-radius: 42px;
+ }
+
+ #mv2 {
+ 	width: 80%;
+ 	border-radius: 55px;
+ }
+
+#tree {
+	float: right;
+	width: 40%;
+	margin-right: 15px;
+	border-radius: 77px;
+}
+
+.ready {
+	margin: -155px 8% 0 0;
+	float: right;
+	clear: both;
+	font-size: 80;
+}
+
+iframe {
+	border-color: black;
+	width: 50%;
+	float: left;
+	margin-left: 2.5%;
+}
+
+.pill {
+	background-color: #003366;
+	border-radius: 24px;
+	padding: 17px 5px 17px 5px;
+	margin: 5% 5% 5% 5%;
+	opacity: 0.8;
+	border: 2px solid #3333ff;
+	font-weight: bold;
+	font-size: 25;
+}
